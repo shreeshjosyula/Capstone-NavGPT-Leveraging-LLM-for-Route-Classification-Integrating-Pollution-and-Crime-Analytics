@@ -1,0 +1,8 @@
+Flask
+langchain-openai==0.1.17  
+osmnx==1.9.3  
+networkx==3.3
+numpy==2.0.0
+requests==2.32.3
+geopy==2.4.1
+bs4

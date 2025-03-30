@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426653518538",
+    "project_id": "navigationapp-95308",
+    "storage_bucket": "navigationapp-95308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426653518538:android:aea9dfed92bd63141e4233",
+        "android_client_info": {
+          "package_name": "com.myreactnativeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": firbase_api_key
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

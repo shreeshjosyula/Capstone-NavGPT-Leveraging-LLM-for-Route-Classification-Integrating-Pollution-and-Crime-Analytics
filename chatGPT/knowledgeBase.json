@@ -1,0 +1,56 @@
+[
+    {
+        "location": "CN Tower",
+        "coordinates": {
+            "latitude": 43.6425662,
+            "longitude": -79.3870568
+        },
+        "suggestion": "Visit the CN Tower for an amazing view of Toronto and dine at the 360 Restaurant.",
+        "actions": [
+            {
+                "text": "Show on Map",
+                "type": "show_map",
+                "data": {
+                    "latitude": 43.6425662,
+                    "longitude": -79.3870568
+                }
+            }
+        ]
+    },
+    {
+        "location": "Royal Ontario Museum",
+        "coordinates": {
+            "latitude": 43.6677107,
+            "longitude": -79.3947771
+        },
+        "suggestion": "Explore the exhibits at the Royal Ontario Museum, one of the largest museums in North America.",
+        "actions": [
+            {
+                "text": "Show on Map",
+                "type": "show_map",
+                "data": {
+                    "latitude": 43.6677107,
+                    "longitude": -79.3947771
+                }
+            }
+        ]
+    },
+    {
+        "location": "Ripley's Aquarium of Canada",
+        "coordinates": {
+            "latitude": 43.6424035,
+            "longitude": -79.3863421
+        },
+        "suggestion": "Discover marine life at Ripley's Aquarium, located right next to the CN Tower.",
+        "actions": [
+            {
+                "text": "Show on Map",
+                "type": "show_map",
+                "data": {
+                    "latitude": 43.6424035,
+                    "longitude": -79.3863421
+                }
+            }
+        ]
+    }
+]
